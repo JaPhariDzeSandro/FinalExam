@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">T7aP</string>
-    <string name="appLogoAlt">Application Description</string>
+    <string name="appLogoAlt">ავტორიზაციის გასასვლელად გთხოვთ გამოიყენოთ Google-ის ღილაკი</string>
     <string name="splashAppTitle">T7ap</string>
-    <string name="splashAppDescription">Created by S.japharidze</string>
+    <string name="splashAppDescription">Created by organization of "T7ap"</string>
     <string name="title">აპლიკაციის ჩასაწერად დაუკავშირდით ჩვენ supports</string>
+    <string name="blash">აპლიკაცია იტვირთება</string>
+    <string name="seperate">რთული სამუშაო ჩატარების მიუხედავად ვერ აღმოიფრვა  Android studio-სა  და Firestore-ს შორის არსებული ხარვეზი</string>
 </resources>

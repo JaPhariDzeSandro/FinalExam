@@ -21,8 +21,8 @@
 
         <ImageView
             android:id="@+id/imageView3"
-            android:layout_width="436dp"
-            android:layout_height="210dp"
+            android:layout_width="456dp"
+            android:layout_height="257dp"
             app:srcCompat="@drawable/venus" />
 
         <TextView
@@ -35,8 +35,8 @@
             android:padding="15dp"
             android:text="@string/splashAppDescription"
             android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textSize="24sp"
+            android:textColor="@color/white"
+            android:textSize="14sp"
             android:textStyle="bold" />
 
         <ProgressBar
@@ -45,6 +45,17 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:indeterminateTint="@color/black" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:text="@string/blash"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
 
 
     </LinearLayout>
